@@ -1,0 +1,23 @@
+body
+{
+    background-image: url(https://imgs.search.brave.com/kPrQ5R2rNVmg3XGqOzo5Zclyct1O5JnoS0xHYcbgkjk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzY4L2M4/L2NmLzY4YzhjZjJi/MGM4MTg3YzRhNDg3/OTk2Y2FhNWJmNTVj/LmpwZw);
+}
+nav
+{
+    background-color: transparent;
+    backdrop-filter: blur(10px);
+    box-shadow: 0px 0px 10px red;
+    font-family:cursive;
+}
+.card
+{
+    background-color: transparent;
+    backdrop-filter: blur(10px);
+    box-shadow: 0px 0px 10px red;
+    font-family:cursive;
+}
+h1
+{
+    font-family:cursive;
+    color: brown;
+}
